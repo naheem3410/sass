@@ -211,4 +211,59 @@ week1/
 
 .env.local
 .env
+.env.example
+.env.local.example
 
+hireflow/backend/.env.example
+hireflow/backend/.env.local.example
+hireflow/backend/.env
+hireflow/backend/.env.local
+
+# dependencies
+node_modules/
+
+# next.js build output
+.next/
+
+# env files
+.env*
+
+# logs
+npm-debug.log*
+
+# dependencies
+node_modules/
+
+# next.js
+.next/
+
+# python
+__pycache__/
+*.pyc
+
+# env
+.env*
+
+# databases
+*.db
+
+# storage / generated data
+chroma_store/
+
+# uploads
+uploads/
+
+# Next.js
+.next/
+
+# uploads
+uploads/
+
+# database
+*.db
+
+# chroma
+chroma_store/
+
+# misc
+*.sqlite3
